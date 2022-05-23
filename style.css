@@ -1,3 +1,13 @@
-body {
-
+h2{
+  color: black;
+  text-align: center;
+}
+body{
+  background-color: antiquewhite;
+}
+img{
+  border: dashed gold 5px;
+}
+img:hover {
+  width: 70%;
 }
