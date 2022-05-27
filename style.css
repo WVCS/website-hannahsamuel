@@ -44,7 +44,7 @@ span{
   display: inline-block;
   font-weight: bolder;
   animation: mover 6s linear infinite;
-  color: hsla(0, 100%, 50%, 0.3);
+  color: white;
 }
 @keyframes mover{
   0%{
