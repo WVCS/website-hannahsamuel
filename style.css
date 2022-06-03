@@ -75,9 +75,9 @@ span:nth-child(5) {
 span:nth-child(6) {
   animation-delay: 3s;
 }
-
-h2{
-  font-size: 20px;
+img{
+  width:700px;
+  height: 700px;
 }
 p{
   font-size : 30px;
