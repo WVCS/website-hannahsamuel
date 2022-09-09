@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <link rel="stylesheet" href="style.css">
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>|GRAPHIC DESIGN|</title>
+</head>
+
+<body>
+  <ul>
+     <li><a href="index.html">HOME</a></li>
+    <li><a href="about.html">About</a></li>
+    <li><a href="CSA.html">Computer Science A</a></li>
+    <li><a href="HMI.html">Honors Medical Interventions</a></li>
+  </ul>
+  <div class="text-box">
+    <span>G</span>
+    <span>R</span>
+    <span>A</span>
+    <span>P</span>
+    <span>H</span>
+    <span>I</span>
+    <span>S</span>
+    <span> </span>
+    <span>D</span>
+    <span>E</span>
+    <span>S</span>
+    <span>I</span>
+    <span>G</span>
+    <span>N/span>
+   <br>
+   <hr>    
+    <p> Basic Shapes- Animals </p>
+    <iframe src="3.Samuel_Hannah_BSA_P1-01.jpg"></iframe>   
+<br>
+    
+    
+</body>
+
+</html>
